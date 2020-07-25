@@ -1,2 +1,2 @@
-# alexa-skill-my-birthday-reminder
+# alexa-skill-reggie-birthday-reminder
 Alexa Skill Reggie Birthday Reminder
